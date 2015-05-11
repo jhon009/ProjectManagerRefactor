@@ -1,0 +1,5 @@
+bower.json
+node_modules/
+src/
+bower_components/
+dest/
